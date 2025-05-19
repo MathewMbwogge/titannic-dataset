@@ -1,2 +1,2 @@
-# titannic-dataset
+# titanic-dataset
 Processing and Analysing the Titanic Dataset
